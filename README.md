@@ -1,6 +1,6 @@
 ## 👋&nbsp; Hi, I'm Mattias
 
-I am a full stack developer from Vancouver, Canada. I am enjoy making all types of apps and software tools.
+I am a full stack developer from Vancouver, Canada. I enjoy making all types of apps and software tools.
 
 
 ### How to reach me:
