@@ -25,7 +25,7 @@ I have a deep passion for front-end design, thriving on building intuitive and v
 
 ## 🚀 Recent Projects
 
-- **Mentorship:** Currently working on Screenbuddies an app to reduce peoples screen usage
+- **Learning:** Currently working on Screenbuddies an app to reduce peoples screen usage
 
 ## 🌍 Community Engagement
 
