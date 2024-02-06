@@ -21,7 +21,7 @@ Hello there! I'm Mattias, a proud graduate of Simon Fraser University and a dedi
 I have a deep passion for front-end design, thriving on building intuitive and visually appealing user interfaces. My toolkit includes:
 
 - **React & React Native:** From mobile apps to web applications, I leverage these frameworks to create responsive and user-friendly interfaces.
-- **Design Tools:** Experience with Adobe Suite and Figma for prototyping and design.
+- **Design Tools:** Experience with Figma for prototyping and design.
 
 ## 🚀 Recent Projects
 
